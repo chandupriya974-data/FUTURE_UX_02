@@ -55,4 +55,4 @@ CareBook demonstrates a simple and convenient mobile appointment booking experie
 
 ## Figma Prototype
 
-https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=41-68&t=xDcgwz6Hlov0sPOQ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A2
+https://www.figma.com/proto/wQdaLyvwLwi65QojmN3FtC/Untitled?node-id=34-2&p=f&t=kXkCxLMvuLifpoHh-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A2
